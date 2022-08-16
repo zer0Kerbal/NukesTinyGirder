@@ -1,5 +1,5 @@
 # Changelog  
-	
+
 | modName    | Nuke's Tiny Girders (NtG)                                         |
 | ---------- | ----------------------------------------------------------------- |
 | license    | GPL-2.0                                                           |
@@ -17,38 +17,79 @@
 
 ### Creation by zer0Kerbal
 
-### Add
+### Update License
 
-
-### Localization
-
-* Add
-	* <en-us.cfg>
-	* [readme.md] v2.1.2.0
-	* [quickstart.md] v1.0.1.1
-* updates #8 - Localization Master
-* closes #9 - English <en-us.cfg>
+* [ ] Updated License: GPL-2.0
+  * was: Public Domain
+* closes #24 - Updated  License
 
 ### docs/
 
 * Add
-	* [`_config.yml`]
-	* [Attribution.md] v1.0.7.1
-	* [ManualInstallation.md] v1.1.8.0
-	* [404.md] v1.0.3.2
-	* [LegalMumboJumbo.md] v1.0.5.1
-	* [Localizations.md] v1.1.7.0
-	* [Notices.md] v1.0.1.0
-	* [Why.md] v1.1.0.0
-* closes #5 - docs/
+  * [`_config.yml`]
+  * [Attribution.md] v1.0.7.1
+  * [ManualInstallation.md] v1.1.8.0
+  * [404.md] v1.0.3.2
+  * [LegalMumboJumbo.md] v1.0.5.1
+  * [Localizations.md] v1.1.7.0
+  * [Marketing.md] v1.0.1.0
+  * [Notices.md] v1.0.1.0
+  * [Disclaimer.md] v1.0.1.0
+  * [PartCatalog.md] v1.1.4.1
+  * [Why.md] v1.1.0.0
+* closes #25 - docs/
+
+### Asset Updates
+
+* create Assets/ folder
+* convert from mesh to MODEL
+* rename
+  * models to unique names
+  * textures to unique names
+* update
+  * model pointers (.png et al to .dds)
+  * model texture pointers to new names
+* relocate assets to Assets/
+* eliminate
+  * duplicate textures
+  * duplicate models
+* relocate part.cfg to Parts/
+* closes #26 - Asset Updates
+
+### Localization
+
+* Create
+  * Localization/
+    * <en-us.cfg>
+    * [readme.md] v2.1.2.0
+    * [quickstart.md] v1.0.1.1
+* updates #5 - Localization Master
+* closes #6 - Localization - English <en-us.cfg>
+* closes #23 - Part Localization
+* closes #27 - Localization
+
+### Add localized tags to parts
+
+* Add
+  * [MOD-NAME.cfg] v1.0.0.0
+    * adds localized tags to parts
+* closes #28 - Add localized tags to parts
+
+### Img
+
+* Create
+  * Hero.png
+* closes #29 - Create Hero.png
+
+### Add
 
 ### Status
 
 * Issues
-	* closes #1 - Nuke's Tiny Girders (NtG) 0.9.99.0-prerelease `<Target Acquired>` edition
-	* closes #2 - 0.9.99.0 Verify Legal Mumbo Jumbo
-	* closes #3 - 0.9.99.0 Update Documentation
-	* closes #4 - 0.9.99.0 Update Social Media
+  * closes #1 - Nuke's Tiny Girder (NtG) 0.9.99.0-adoption `<Thank you Nuke!>`
+  * closes #2 - 0.9.99.0 Create Legal Mumbo Jumbo
+  * closes #3 - 0.9.99.0 Create Documentation
+  * closes #4 - 0.9.99.0 Create Social Media
 
 ---
 
