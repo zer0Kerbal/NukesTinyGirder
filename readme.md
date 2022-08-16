@@ -74,7 +74,7 @@ or [![CKAN][CKAN:img]][CKAN:url]
 
 ### Suggests
 
-* Also by Nuke's Unlimited by [Nuke][nuke]
+* Also by [Nuke][nuke]
   * [Nuke's Tiny Parts (NtP)][NTP]
   * [Nuke's Tiny Girders (NtG)][NTG]
   * [Nuke's Tiny Experimental (NtX)][NtX]
