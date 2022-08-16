@@ -1,4 +1,4 @@
-# Changelog  
+# Changelog 
 
 | modName    | Nuke's Tiny Girders (NtG)                                         |
 | ---------- | ----------------------------------------------------------------- |
@@ -56,7 +56,7 @@
 * relocate part.cfg to Parts/
 * closes #26 - Asset Updates
 
-### Localization
+### Localization 0.9.99.0
 
 * Create
   * Localization/
@@ -81,9 +81,18 @@
   * Hero.png
 * closes #29 - Create Hero.png
 
-### Add
+### Parts 0.9.99.0
 
-### Status
+* Add B9 tank switch (with NearFutureConstruction Support) to:
+  * tinyGirderMediumTank
+  * tinyGirderSmallTank
+  * tinyGirderLargeHubTank
+* Updated TweakScale patch to be more specific
+* TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
+* ~18 parts
+* *Some parts not working*
+
+### Status 0.9.99.0
 
 * Issues
   * closes #1 - Nuke's Tiny Girder (NtG) 0.9.99.0-adoption `<Thank you Nuke!>`
