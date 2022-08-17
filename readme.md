@@ -109,7 +109,7 @@ parts, config, resources
 #### Original (0) - Author: [`zer0Kerbal`][zer0Kerbal]
 
 > Forum: [Thread][MOD:forum] - Source: [GitHub][GITHUB:url]  
-> License: [![License][LIC:shd]][LIC:url]
+> License: [![License][LIC:shd]][LIC:url] ![License][LIC:log]
 >
 > ##### Disclaimer(s)
 >
@@ -121,7 +121,7 @@ parts, config, resources
 #### Original (0) - Author: [`Nuke`][nuke]
 
 > Forum: [Thread][MOD:0:thread] - Download: [Google Drive][MOD:0:dnload] - Source: [Google Drive][MOD:0:source]  
-> License: [![License][LIC:0:shd]][LIC:0:url] ![License][LIC:0:log]
+> License: [![License][LIC:0:shd]][LIC:0:url]
 
 ---
 
