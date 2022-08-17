@@ -85,25 +85,46 @@
 
 
 * Rename parts to unique names following the pattern `ntg-<PART-NAME>`
-  * <tinyGirderDock> --> <ntg-tinyGirderDock.cfg>
-  * <tinyGirderExplodie> --> <ntg-tinyGirderExplodie.cfg>
-  * <tinyGirderHalfMeterAdapter> --> <ntg-tinyGirderHalfMeterAdapter.cfg>
-  * <tinyGirderHuge> --> <ntg-tinyGirderHuge.cfg>
-  * <tinyGirderIonThruster> --> <ntg-tinyGirderIonThruster.cfg>
-  * <tinyGirderLarge> --> <ntg-tinyGirderLarge.cfg>
-  * <tinyGirderLargeElbow> --> <ntg-tinyGirderLargeElbow.cfg>
-  * <tinyGirderLargeHub> --> <ntg-tinyGirderLargeHub.cfg>
-  * <tinyGirderLargeHubTank> --> <ntg-tinyGirderLargeHubTank.cfg>
-  * <tinyGirderLfArcjetThruster> --> <ntg-tinyGirderLfArcjetThruster.cfg>
-  * <tinyGirderMedium> --> <ntg-tinyGirderMedium.cfg>
-  * <tinyGirderMediumTank> --> <ntg-tinyGirderMediumTank.cfg>
-  * <tinyGirderMiniscule> --> <ntg-tinyGirderMiniscule.cfg>
-  * <tinyGirderOctoHub> --> <ntg-tinyGirderOctoHub.cfg>
-  * <tinyGirderSmall> --> <ntg-tinyGirderSmall.cfg>
-  * <tinyGirderSmallElbow> --> <ntg-tinyGirderSmallElbow.cfg>
-  * <tinyGirderSmallHub> --> <ntg-tinyGirderSmallHub.cfg>
-  * <tinyGirderSmallTank> --> <ntg-tinyGirderSmallTank.cfg>
-  * <tinyGirderTiny> --> <ntg-tinyGirderTiny.cfg>
+  * [tinyGirderDock] --> [ntg-dock]
+  * [tinyGirderExplodie] --> [ntg-explodie]
+  * [tinyGirderHalfMeterAdapter] --> [ntg-adapter-half]
+  * [tinyGirderHuge] --> [ntg-huge]
+  * [tinyGirderIonThruster] --> [ntg-thruster-ion]
+  * [tinyGirderLarge] --> [ntg-large]
+  * [tinyGirderLargeElbow] --> [ntg-large-elbow]
+  * [tinyGirderLargeHub] --> [ntg-large-hub]
+  * [tinyGirderLargeHubTank] --> [ntg-large-hub-tank]
+  * [tinyGirderLfArcjetThruster] --> [ntg-thruster-arcjet-lf]
+  * [tinyGirderMedium] --> [ntg-medium]
+  * [tinyGirderMediumTank] --> [ntg-medium-tank]
+  * [tinyGirderMiniscule] --> [ntg-miniscule]
+  * [tinyGirderOctoHub] --> [ntg-octo-hub]
+  * [tinyGirderSmall] --> [ntg-small]
+  * [tinyGirderSmallElbow] --> [ntg-small-elbow]
+  * [tinyGirderSmallHub] --> [ntg-small-hub]
+  * [tinyGirderSmallTank] --> [ntg-small-tank]
+  * [tinyGirderTiny] --> [ntg-tiny]
+
+* Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
+  * <tinyGirderDock> --> <ntg-dock.cfg>
+  * <tinyGirderExplodie> --> <ntg-explodie.cfg>
+  * <tinyGirderHalfMeterAdapter> --> <ntg-adapter-half.cfg>
+  * <tinyGirderHuge> --> <ntg-huge.cfg>
+  * <tinyGirderIonThruster> --> <ntg-thruster-ion.cfg>
+  * <tinyGirderLarge> --> <ntg-large.cfg>
+  * <tinyGirderLargeElbow> --> <ntg-large-elbow.cfg>
+  * <tinyGirderLargeHub> --> <ntg-large-hub.cfg>
+  * <tinyGirderLargeHubTank> --> <ntg-large-hub-tank.cfg>
+  * <tinyGirderLfArcjetThruster> --> <ntg-thruster-arcjet-lf.cfg>
+  * <tinyGirderMedium> --> <ntg-medium.cfg>
+  * <tinyGirderMediumTank> --> <ntg-medium-tank.cfg>
+  * <tinyGirderMiniscule> --> <ntg-miniscule.cfg>
+  * <tinyGirderOctoHub> --> <ntg-octo-hub.cfg>
+  * <tinyGirderSmall> --> <ntg-small.cfg>
+  * <tinyGirderSmallElbow> --> <ntg-small-elbow.cfg>
+  * <tinyGirderSmallHub> --> <ntg-small-hub.cfg>
+  * <tinyGirderSmallTank> --> <ntg-small-tank.cfg>
+  * <tinyGirderTiny> --> <ntg-tiny.cfg>
 
 
 * Add B9 tank switch (with NearFutureConstruction Support) to:
