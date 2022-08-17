@@ -15,7 +15,14 @@
 * 16 Aug 2022
 * Release for Kerbal Space Program [KSP 1.12.x]
 
-### Creation by zer0Kerbal
+### Adoption by zer0Kerbal
+
+### Summary
+
+* Split off from Nukes Tiny Parts
+* this is the first in a series of updates to Nukes Tiny Girders
+* smaller updates make updating the addon much more manageable.
+* Included <ghostparts.cfg>
 
 ### Update License
 
@@ -65,13 +72,13 @@
     * [quickstart.md] v1.0.1.1
 * updates #5 - Localization Master
 * closes #6 - Localization - English <en-us.cfg>
-* closes #23 - Part Localization
+* updates #23 - Part Localization
 * closes #27 - Localization
 
 ### Add localized tags to parts
 
 * Add
-  * [MOD-NAME.cfg] v1.0.0.0
+  * [NukesTinyGirders.cfg] v1.0.0.0
     * adds localized tags to parts
 * closes #28 - Add localized tags to parts
 
@@ -83,14 +90,57 @@
 
 ### Parts 0.9.99.0
 
-* Add B9 tank switch (with NearFutureConstruction Support) to:
-  * tinyGirderMediumTank
-  * tinyGirderSmallTank
-  * tinyGirderLargeHubTank
-* Updated TweakScale patch to be more specific
-* TGA to DDS, reduced sample to 512x512 (max) reducing file size by ~200mb
-* ~18 parts
-* *Some parts not working*
+* Rename parts to unique names following the pattern `ntg-<PART-NAME>`
+  * [tinyGirderDock] --> [ntg-dock]
+  * [tinyGirderExplodie] --> [ntg-explodie]
+  * [tinyGirderHalfMeterAdapter] --> [ntg-adapter-half]
+  * [tinyGirderHuge] --> [ntg-huge]
+  * [tinyGirderIonThruster] --> [ntg-thruster-ion]
+  * [tinyGirderLarge] --> [ntg-large]
+  * [tinyGirderLargeElbow] --> [ntg-large-elbow]
+  * [tinyGirderLargeHub] --> [ntg-large-hub]
+  * [tinyGirderLargeHubTank] --> [ntg-large-hub-tank]
+  * [tinyGirderLfArcjetThruster] --> [ntg-thruster-arcjet-lf]
+  * [tinyGirderMedium] --> [ntg-medium]
+  * [tinyGirderMediumTank] --> [ntg-medium-tank]
+  * [tinyGirderMiniscule] --> [ntg-miniscule]
+  * [tinyGirderOctoHub] --> [ntg-octo-hub]
+  * [tinyGirderSmall] --> [ntg-small]
+  * [tinyGirderSmallElbow] --> [ntg-small-elbow]
+  * [tinyGirderSmallHub] --> [ntg-small-hub]
+  * [tinyGirderSmallTank] --> [ntg-small-tank]
+  * [tinyGirderTiny] --> [ntg-tiny]
+  * Add
+    * <ghostparts.cfg> to attempt to prevent any damage to existing save games.
+    * is not permanent. will be removed when the mod is updated to 1.0.0.0-release
+* Rename filename to unique filenames following the pattern `ntg-<PART-NAME>`
+  * <tinyGirderDock> --> <ntg-dock.cfg>
+  * <tinyGirderExplodie> --> <ntg-explodie.cfg>
+  * <tinyGirderHalfMeterAdapter> --> <ntg-adapter-half.cfg>
+  * <tinyGirderHuge> --> <ntg-huge.cfg>
+  * <tinyGirderIonThruster> --> <ntg-thruster-ion.cfg>
+  * <tinyGirderLarge> --> <ntg-large.cfg>
+  * <tinyGirderLargeElbow> --> <ntg-large-elbow.cfg>
+  * <tinyGirderLargeHub> --> <ntg-large-hub.cfg>
+  * <tinyGirderLargeHubTank> --> <ntg-large-hub-tank.cfg>
+  * <tinyGirderLfArcjetThruster> --> <ntg-thruster-arcjet-lf.cfg>
+  * <tinyGirderMedium> --> <ntg-medium.cfg>
+  * <tinyGirderMediumTank> --> <ntg-medium-tank.cfg>
+  * <tinyGirderMiniscule> --> <ntg-miniscule.cfg>
+  * <tinyGirderOctoHub> --> <ntg-octo-hub.cfg>
+  * <tinyGirderSmall> --> <ntg-small.cfg>
+  * <tinyGirderSmallElbow> --> <ntg-small-elbow.cfg>
+  * <tinyGirderSmallHub> --> <ntg-small-hub.cfg>
+  * <tinyGirderSmallTank> --> <ntg-small-tank.cfg>
+  * <tinyGirderTiny> --> <ntg-tiny.cfg>
+* Move
+  * Module [TweakScale] out from part.cfg's into separate file
+    * [TweakScale.cfg]
+
+### Compatibility 0.9.99.0
+
+* Create
+  * [TweakScale.cfg] 1.0.0.0
 
 ### Status 0.9.99.0
 
