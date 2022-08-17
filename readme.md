@@ -156,7 +156,7 @@ parts, config, resources
 <!--- mod provenance -->
 [MOD:0:dnload]: https://drive.google.com/open?id=1WPu-nxiyoI-xSWWkb_FJ5wDdqelR4jVk "Google Drive"
 [MOD:0:source]: https://drive.google.com/open?id=1WPu-nxiyoI-xSWWkb_FJ5wDdqelR4jVk "Google Drive"
-[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/209301-*/ "KSP Forum"
+[MOD:0:thread]: https://forum.kerbalspaceprogram.com/index.php?/topic/21466-*/ "KSP Forum"
 
 <!--- license provenance -->
 [LIC:0:url]: https://en.wikipedia.org/wiki/Public%20domain/ "Public Domain"
