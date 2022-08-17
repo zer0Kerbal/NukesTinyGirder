@@ -26,7 +26,7 @@
 
 ### Update License
 
-* [ ] Updated License: GPL-2.0
+* Updated License: GPL-2.0
   * was: Public Domain
 * closes #24 - Updated  License
 
