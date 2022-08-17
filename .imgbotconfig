@@ -1,7 +1,7 @@
 {
     "schedule": "weekly",
     "ignoredFiles": [
-        "GameData/Nuke/NukesTinyGirder/*",
+        "GameData/Nuke/NukesTinyGirders/*",
         "source/*",
         "**/@thumbs/**",
         "**/Agencies/**",

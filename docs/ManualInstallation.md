@@ -29,22 +29,22 @@ You should be all good! (check for latest version on CurseForge)
 To install, place the `NukesTinyGirder` folder inside your Kerbal Space Program's GameData folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/Nuke/NukesTinyGirder`
+  * Delete `<KSP_ROOT>/GameData/Nuke/NukesTinyGirders`
 * Extract the package's `Nuke/` folder into your KSP's GameData folder as follows:
   * `<PACKAGE>/Nuke` --> `<KSP_ROOT>/GameData`
     * Overwrite any preexisting folder/file(s).
-  * you should end up with `<KSP_ROOT>/GameData/Nuke/NukesTinyGirder`
+  * you should end up with `<KSP_ROOT>/GameData/Nuke/NukesTinyGirders`
 
 ### If Downloaded from SpaceDock / GitHub / other
 
 To install, place the `GameData` folder inside your Kerbal Space Program folder:
 
 * **REMOVE ANY OLD VERSIONS OF THE PRODUCT BEFORE INSTALLING**
-  * Delete `<KSP_ROOT>/GameData/Nuke/NukesTinyGirder`
+  * Delete `<KSP_ROOT>/GameData/Nuke/NukesTinyGirders`
 * Extract the package's `GameData` folder into your KSP's root folder as follows:
   * `<PACKAGE>/GameData` --> `<KSP_ROOT>`
     * Overwrite any preexisting file.
-  * you should end up with `<KSP_ROOT>/GameData/Nuke/NukesTinyGirder`
+  * you should end up with `<KSP_ROOT>/GameData/Nuke/NukesTinyGirders`
 
 ## The following file layout must be present after installation
 
