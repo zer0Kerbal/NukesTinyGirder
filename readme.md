@@ -101,7 +101,7 @@ parts, config, resources
 
 ### Credits and Special Thanks
 
-* [Nuke][nuke] for the inspiration to create this mod
+* [Nuke][nuke] for creating this glorious parts addon!
 * see [Attribution.md][MOD:attr] for more comprehensive list
 
 ### Legal Mumbo Jumbo (License *provenance*)
