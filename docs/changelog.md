@@ -39,7 +39,7 @@ CC BY-ND 4.0 by zer0Kerbal
 
 ### Update License
 
-* [ ] Updated License: GPL-2.0
+* Updated License: GPL-2.0
   * was: Public Domain
 * closes #24 - Updated  License
 
